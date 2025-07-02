@@ -1,2 +1,1 @@
-# indosma
-indosma
+# [indosma](https://indosma.pages.dev)
